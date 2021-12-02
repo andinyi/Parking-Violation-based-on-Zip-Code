@@ -1,12 +1,10 @@
 ## Parking Violations Based on Zip Codes of NYC
 
-You can use the [editor on GitHub](https://github.com/andinyi/Parking-Violation-based-on-Zip-Code/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A python code that allows for the compliation of Parking Violations and displays it for each individual Zip Code in New York City. Planned to include a simple input that allows for users to specify which street they're interested in to further return the Parking Violations in proportion to the Average Daily Traffic Count.
 
 ### Data Visualization
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A image of the generated HTML file for the created visualization of NYC organized by Zip Code. It contain's the Zip Code of the highlighted area as well as the Parking Violations in that area as a caption/popup as you hover over it.
 
 ```markdown
 Syntax highlighted code block
