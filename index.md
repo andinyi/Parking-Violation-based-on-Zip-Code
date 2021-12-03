@@ -17,3 +17,4 @@ in that area as a caption/popup as you hover over it. At the moment the current 
 
 ### Scuffed Honestly but do give me any feedback you can!
 
+THANKS FOR LOOKING AT MY PROJECT!
