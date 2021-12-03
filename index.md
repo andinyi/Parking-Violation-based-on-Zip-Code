@@ -4,32 +4,16 @@ A python code that allows for the compliation of Parking Violations and displays
 
 ### Data Visualization
 
-A image of the generated HTML file for the created visualization of NYC organized by Zip Code. It contain's the Zip Code of the highlighted area as well as the Parking Violations in that area as a caption/popup as you hover over it.
+A image of the generated HTML file for the created visualization of NYC organized by Zip Code. It contain's the Zip Code of the highlighted area as well as the Parking Violations 
+in that area as a caption/popup as you hover over it. At the moment the current Map only show's the Zip Code but the later version will also include the parking violation count.
 
-```markdown
-Syntax highlighted code block
+![Image](https://user-images.githubusercontent.com/32392170/144543826-bdc03db4-9bd8-4f50-9487-60125e608988.png)
 
-# Header 1
-## Header 2
-### Header 3
+### Planned
 
-- Bulleted
-- List
+- Planned to finish the user lookup as well as the ability for users to choose a street and then return a Parking violation count over the daily average traffic.
+- Planned to also include the parking violation as a tooltip.
+- Hopefully work a bit more on the website to see if I could make my own or include an interactive html on here as well. 
 
-1. Numbered
-2. List
+### Scuffed Honestly but do give me any feedback you can!
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andinyi/Parking-Violation-based-on-Zip-Code/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
