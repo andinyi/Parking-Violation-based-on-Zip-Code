@@ -1,4 +1,4 @@
-## Parking Violations Based on Zip Codes of NYC
+### Parking Violations Based on Zip Codes of NYC
 
 A python code that allows for the compliation of Parking Violations and displays it for each individual Zip Code in New York City. Planned to include a simple input that allows for users to specify which street they're interested in to further return the Parking Violations in proportion to the Average Daily Traffic Count.
 
@@ -22,7 +22,10 @@ https://jsspina.carto.com/tables/nyc_zip_code_tabulation_areas_polygons/public/m
 
 ### Techinques 
  
-Geopy was used to parse and retrieve Zip code and address data. Pandas was used for data access and management. Regex and SQL was both used for cleaning parsing data fields to be used together. Json and Geojson files were used for map and visualization on the folium map. 
+Geopy was used to parse and retrieve Zip code and address data. Pandas was used for data access and management. Regex and SQL was both used for cleaning parsing data fields to be used together. Json and Geojson files were used for map and visualization on the folium map. Default methods were also used to avoid crashes and errors. 
+
+![pepe](https://user-images.githubusercontent.com/32392170/145614312-94f90833-50a6-4cbd-8afe-a985a283ddec.png)
+
 
 ### PROBLEM
 
