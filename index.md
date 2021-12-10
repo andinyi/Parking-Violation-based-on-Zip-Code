@@ -1,4 +1,4 @@
-### Parking Violations Based on Zip Codes of NYC
+## Parking Violations Based on Zip Codes of NYC
 
 A python code that allows for the compliation of Parking Violations and displays it for each individual Zip Code in New York City. Planned to include a simple input that allows for users to specify which street they're interested in to further return the Parking Violations in proportion to the Average Daily Traffic Count.
 
