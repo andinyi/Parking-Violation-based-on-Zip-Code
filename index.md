@@ -30,6 +30,7 @@ Geopy was used to parse and retrieve Zip code and address data. Pandas was used 
 ### PROBLEM
 
 THIS CODE CURRERNTLY DOES NOT WORK ON MASSIVE FILES, as geopy will stop allowing you to request calls from its URL. VERY minimally working product atm...
+THIS IS WHY THE MAP SHOWS ONLY 1 PARKING VIOLATION, as that correlates to a SINGULAR STREET in a smaller TESTING csv. Geopy refused to get the calls for the larger one...
 
 ### Citations
 
